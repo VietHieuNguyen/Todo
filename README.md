@@ -2,7 +2,7 @@
 
 Ứng dụng quản lý công việc Full-stack, xây dựng bằng **React + Vite** (Frontend) và **Express + TypeScript + MongoDB** (Backend).
 
-## 🔗 Demo Online
+## Demo Online
 
 *   **Backend API**: [https://todo-376r.onrender.com/](https://todo-376r.onrender.com/)
 *   **Frontend Webapp**: [https://todo-eight-nu-79.vercel.app/](https://todo-eight-nu-79.vercel.app/)
